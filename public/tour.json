@@ -1,0 +1,100 @@
+[
+  {
+    "location": "Cox's Bazar",
+    "description": "Cox's Bazar is renowned for having the world's longest natural sea beach, stretching over 120 kilometers along the Bay of Bengal. It is a popular tourist destination known for its stunning golden sand beaches, crystal-clear waters, and breathtaking sunset views that create a magical atmosphere every evening. The area is also famous for local seafood delicacies and vibrant beach culture, offering a perfect escape for relaxation and beachside activities.",
+    "image": "https://i.postimg.cc/gjMYqPHT/sundorbon.png",
+    "hotels": [
+      {
+        "name": "Ocean Paradise Hotel",
+        "type": "Luxury Hotel",
+        "pricePerNight": 120,
+        "rating": 4.7,
+        "amenities": ["Free Wi-Fi", "Sea View", "Swimming Pool", "Spa"],
+        "image": "https://example.com/images/ocean_paradise.jpg"
+      },
+      {
+        "name": "Sayeman Beach Resort",
+        "type": "Resort",
+        "pricePerNight": 100,
+        "rating": 4.5,
+        "amenities": ["Free Breakfast", "Beach Access", "Rooftop Restaurant"],
+        "image": "https://example.com/images/sayeman_resort.jpg"
+      },
+      {
+        "name": "Hotel Sea Crown",
+        "type": "Budget Hotel",
+        "pricePerNight": 60,
+        "rating": 4.2,
+        "amenities": ["Free Wi-Fi", "Restaurant", "Sea View"],
+        "image": "https://example.com/images/sea_crown.jpg"
+      }
+    ]
+  },
+  {
+    "location": "Sreemangal",
+    "description": "Sreemangal, often called the 'Tea Capital of Bangladesh,' is a picturesque region filled with lush green tea gardens, serene forests, and diverse wildlife. This charming town is known for its tranquil environment, where visitors can explore rolling hills covered in tea bushes, take relaxing walks in Lawachara National Park, and enjoy bird-watching. The area is also famous for its seven-layer tea, a local specialty, making it a peaceful retreat for nature lovers.",
+    "image": "https://i.postimg.cc/RhCSH0Kt/Sreemongol.png",
+    "hotels": [
+      {
+        "name": "Grand Sultan Tea Resort & Golf",
+        "type": "Luxury Resort",
+        "pricePerNight": 150,
+        "rating": 4.8,
+        "amenities": ["Free Wi-Fi", "Golf Course", "Swimming Pool", "Spa"],
+        "image": "https://example.com/images/grand_sultan.jpg"
+      },
+      {
+        "name": "Nishorgo Eco Resort",
+        "type": "Eco Resort",
+        "pricePerNight": 80,
+        "rating": 4.4,
+        "amenities": ["Eco-Friendly", "Nature View", "Free Breakfast"],
+        "image": "https://example.com/images/nishorgo_resort.jpg"
+      },
+      {
+        "name": "Tea Heaven Resort",
+        "type": "Budget Hotel",
+        "pricePerNight": 50,
+        "rating": 4.1,
+        "amenities": ["Free Wi-Fi", "Tea Garden View", "Restaurant"],
+        "image": "https://example.com/images/tea_heaven.jpg"
+      }
+    ]
+  },
+  {
+    "location": "Sundarbans",
+    "description": "The Sundarbans is the world's largest mangrove forest and a UNESCO World Heritage site, known for its rich biodiversity and the majestic Royal Bengal Tiger. This unique ecosystem, located at the delta of the Ganges, Brahmaputra, and Meghna rivers, is a haven for wildlife enthusiasts. The dense mangrove forests, winding waterways, and abundant wildlife make it a popular destination for adventurous travelers who enjoy jungle safaris, boat tours, and exploring untouched nature.",
+    "image": "https://i.postimg.cc/63X5BcQY/Sajek.png",
+    "hotels": [
+      {
+        "name": "Sundarban Tiger Camp",
+        "type": "Eco Resort",
+        "pricePerNight": 130,
+        "rating": 4.6,
+        "amenities": [
+          "Jungle Safari",
+          "Boat Ride",
+          "Nature View",
+          "Free Wi-Fi"
+        ],
+        "image": "https://example.com/images/sundarban_tiger_camp.jpg"
+      },
+      {
+        "name": "Bonolata Resort",
+        "type": "Resort",
+        "pricePerNight": 90,
+        "rating": 4.3,
+        "amenities": ["Nature Walk", "Bird Watching", "Boat Tour"],
+        "image": "https://example.com/images/bonolata_resort.jpg"
+      },
+      {
+        "name": "Mangrove Retreat",
+        "type": "Eco Lodge",
+        "pricePerNight": 70,
+        "rating": 4.2,
+        "amenities": ["Eco-Friendly", "River View", "Local Cuisine"],
+        "image": "https://example.com/images/mangrove_retreat.jpg"
+      }
+    ]
+  }
+]
